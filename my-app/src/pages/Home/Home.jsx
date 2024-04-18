@@ -26,8 +26,8 @@ const Home = () => {
         <img src={heroImage}/>
       </div>
       <section className="newarrival__section">
-        <NewArrivalCard src={filmCamera} collectiontext={"filmCamera"} collectiondesc={"filmCamera"}/>
-        <NewArrivalCard src={dslr} collectiontext={"filmCamera"} collectiondesc={"filmCamera"}/>
+        <NewArrivalCard src={filmCamera} collectiontext={"Christmas Collection"} collectiondesc={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae ante purus."}/>
+        <NewArrivalCard src={dslr} collectiontext={"Christmas Collection"} collectiondesc={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae ante purus."}/>
       </section>
       
     </div>
