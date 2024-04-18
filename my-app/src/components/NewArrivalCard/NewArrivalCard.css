@@ -1,0 +1,18 @@
+.newArr_card{
+    display: flex;
+    background-color: var(--secondary-color);
+    width: 40%;
+}
+
+.newArr_card img{
+    width: 50%;
+}
+.newArr_heading{
+    color: whitesmoke;
+}
+.newArr_title{
+    color: whitesmoke;
+}
+.newArr_desc{
+    color: whitesmoke;
+}

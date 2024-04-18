@@ -1,8 +1,11 @@
 import React from 'react'
+import Navigation from '../../components/Navigation/Navigation'
 
 const Wishlist = () => {
   return (
-    <div>Wishlist</div>
+    <div>
+      <Navigation/>
+    </div>
   )
 }
 

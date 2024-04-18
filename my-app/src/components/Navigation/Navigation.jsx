@@ -21,7 +21,7 @@ const Navigation = () => {
       
 
       <div className='header__nav' >
-        
+        <button className='header_btn'>Login</button>
           <p><FaRegHeart size={20} color='white'/></p>
           <p><HiShoppingCart size={20} color='white'/></p>
           <p><FaUser size={20} color='white'/></p>
